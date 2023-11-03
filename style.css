@@ -1,0 +1,93 @@
+@font-face {
+    font-family: "Dauphin";
+    src: url('Dauphin.ttf');
+    }
+
+a
+{
+    color: black!important;
+}
+
+.languages{
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-size: 12px;
+    padding-top: 10rem;
+    width: 40%!important;
+}
+
+h1{
+    font-weight: 400;
+    font-family: 'Dauphin';
+    font-size: 70px!important;
+}
+
+h4
+{
+    font-size: 14px!important;
+    text-align: center;
+    font-style: italic;
+    font-weight: 400!important;
+}
+
+h5
+{
+    font-size: 12px!important;
+    text-align: center;
+    font-weight: 400!important;
+}
+
+h2
+{
+    font-family: 'Dauphin';
+    font-size: 24px!important;
+    text-align: left;
+}
+
+.col p, .inputs{
+    text-align: justify;
+}
+.forms{
+    padding: 10px!important;
+}
+#number
+{
+    width: 50px!important;
+}
+
+.row a
+{
+    color: rgb(191, 7, 7)!important;
+    font-weight: 500;
+}
+.images
+{
+    margin-bottom: 1rem;
+}
+.techs a{
+    color: black!important;
+    font-weight: 400;
+}
+.data h3{
+    font-family: 'Open Sans',Arial,sans-serif;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 700;
+}
+.data p
+{
+    text-align: justify;
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-size: 14px;
+}
+
+.mail
+{
+    color: black!important;
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    
+}
+.mail:hover{
+    color: red!important;
+}
